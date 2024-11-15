@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Procedural Content Generation through Generative AI**
 
-- 👨‍💻 All of my projects are available at [wajeehnaqvi.com](wajeehnaqvi.com)
+- 👨‍💻 All of my projects are available at [wajeehnaqvi.com](https://wajeehnaqvi.com/)
 
 - 💬 Ask me about **GameDev , Metaverse ,AI**
 
