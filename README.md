@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [wajeehnaqvi.com](wajeehnaqvi.com)
 
-- 💬 Ask me about **Games , metaverse ,AI**
+- 💬 Ask me about **GameDev , Metaverse ,AI**
 
-- 📫 How to reach me **wajeeh617@gmal.com**
+- 📫 How to reach me **wajeeh617@gmail.com**
 
 - ⚡ Fun fact **Robin Williams Fan**
 
